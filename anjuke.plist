@@ -10,7 +10,7 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>http://p.ios.dev.anjuke.com/apps/anjuke/ipa/i-anjuke_ver9.0Ver20150916.a.ipa</string>
+      <string>http://localhost/ipa/MAX.ipa</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -28,13 +28,13 @@
     <key>metadata</key>
     <dict>
      <key>title</key>
-     <string>Anjuke</string>
+     <string>MAX</string>
      <key>bundle-version</key>
      <string>2.0.0</string>
      <key>kind</key>
      <string>software</string>
      <key>bundle-identifier</key>
-     <string>com.anjuke.anjuke</string>
+     <string>com.ruijia.max</string>
     </dict>
    </dict>
   </array>
